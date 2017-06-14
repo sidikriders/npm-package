@@ -1,0 +1,27 @@
+{
+  "name": "bahasa-ge",
+  "version": "1.0.0",
+  "description": "tools untuk mempermudah penulisan bahasa G",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidikriders/npm-package.git"
+  },
+  "keywords": [
+    "bahasa",
+    "ge",
+    "bahasa ge",
+    "gaul"
+  ],
+  "author": "sidikriders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidikriders/npm-package/issues"
+  },
+  "homepage": "https://github.com/sidikriders/npm-package#readme",
+  "dependencies": {
+  }
+}
