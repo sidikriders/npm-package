@@ -1,4 +1,4 @@
-exports.bahasaGe = function(input) {
+function bahasaGe(input) {
   let huruf = input.split('');
   let last = [];
   let vokal = ["a", "i", "u", "e", "o"]
@@ -11,3 +11,5 @@ exports.bahasaGe = function(input) {
   }
   return last.join('')
 }
+
+module.exports = bahasaGe;
