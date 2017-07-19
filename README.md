@@ -8,12 +8,12 @@ exp: "where are you going?"
 
 ge-language: "whegerege agarege yogougu gogoiging?"
 
-##Instalation
+## Instalation
 ```bash
 $ npm install --save bahasa-ge
 ```
 
-##How To Run
+## How To Run
 ```bash
 $ touch index.js
 $ vim index.js
@@ -21,7 +21,7 @@ $ vim index.js
 ```javascript
 const bahasa = require('bahasa-ge');
 
-let txt = "Some very important string, that not everyone can know.\n\nSebuah kalimat penting yang gak semua orang boleh tau"
+let txt = "Some very important string, that not everyone can know.\n\nSebuah kalimat penting yang gak semua orang boleh tau."
 
 console.log(bahasa(txt))
 ```
@@ -32,5 +32,5 @@ result
 ```bash
 Sogomege vegery igimpogortagant striging, thagat nogot egevegeryogonege cagan knogow.
 
-Segebuguagah kagaligimagat pegentiging yagang gagak segemuguaga ogoragang bogolegeh tagaugu
+Segebuguagah kagaligimagat pegentiging yagang gagak segemuguaga ogoragang bogolegeh tagaugu.
 ```
